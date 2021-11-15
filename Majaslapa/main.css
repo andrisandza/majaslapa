@@ -1,0 +1,178 @@
+*{
+border: 1px solid black !important;
+}
+.centrs{
+    justify-content: center;
+    display: flex;
+}
+.row{
+    display: flex;
+}
+.col-5{
+    width: 5%;
+}
+.col-10{
+    width: 10%;
+}
+.col-15{
+    width: 15%;
+}
+.col-20{
+    width: 20%;
+}
+.col-25{
+    width: 25%;
+}
+.col-35{
+    width: 35%;
+}
+.col-50{
+    width: 50%;
+}
+.col-70{
+    width: 70%;
+}
+.col-75{
+    width: 75%;
+}
+.col-80{
+    width: 80%;
+}
+.col-85{
+    width: 85%;
+}
+.col-87{
+    width: 87%;
+}
+.col-90{
+    width: 90%;
+}
+.col-92{
+    width: 92%;
+}
+.col-94{
+    width: 94%;
+}
+.col-95{
+    width: 95%;
+}
+.col-100{
+    width: 100%;
+}
+.hei-30{
+    height: 30px;
+}
+.hei-73{
+    height: 73px;
+}
+.hei-75{
+    height: 75px;
+}
+.hei-90{
+    height: 90px;
+}
+.hei-100{
+    height: 100px;
+}
+.hei-125{
+    height: 125px;
+}
+.hei-150{
+    height: 150px;
+}
+.hei-175{
+    height: 175px;
+}
+.hei-210{
+    height: 210px;
+}
+.hei-225{
+    height: 225px;
+}
+.hei-250{
+    height: 250px;
+}
+.hei-275{
+    height: 275px;
+}
+.hei-377{
+    height: 377px;
+}
+
+.mar-10{
+    margin: 10px;
+}
+.mar-25{
+    margin: 25px;
+}
+
+.mar-50{
+    margin-bottom: 40px;
+    margin-right: 52.5px;
+    margin-left: 52.5px;
+    margin-top: 40px;
+}
+.marl-25{
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
+.marr-25{
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.poga{
+    background-color: gainsboro;
+    border-color: black;
+    border-width: 2px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    padding:  5px;
+}
+
+.poga:hover{
+    background-color: cyan; 
+    color: gray;
+}
+
+.poga:active{
+    background-color: black;
+}
+.ievade{
+    color: white;
+    background-color:gainsboro;
+    border: 0px;
+    padding: 0px;
+}
+
+.logo{
+    max-width: 100%;
+    height: 100px;
+}
+
+body{
+    background-color: beige;
+    margin: 0;
+}
+
+header{
+    background-color: dimgray;
+}
+
+#sort{
+    background-color: beige;
+    width: 60%;
+    text-align:  center;
+}
+
+#sort:hover{
+    background-color: cyan;
+}
+
+#sort:active{
+    background-color: gainsboro;
+}
